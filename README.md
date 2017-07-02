@@ -1,1 +1,1 @@
-# [Einfach](https://github.com/sacren/sacren.github.io)
+# [Einfach](https://sacren.github.io)
