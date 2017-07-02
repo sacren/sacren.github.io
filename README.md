@@ -1,1 +1,1 @@
-Initial commit
+# Die Einfache Lösung
