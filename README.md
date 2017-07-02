@@ -1,1 +1,1 @@
-# Die Einfache Lösung
+# Einfach
