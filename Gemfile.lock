@@ -48,7 +48,6 @@ DEPENDENCIES
   jekyll (= 3.5.1)
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
-  tzinfo-data
 
 RUBY VERSION
    ruby 2.2.6p396
