@@ -18,6 +18,8 @@ description: The gateway to my world
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://sacren.github.io
 
+timezone: America/Denver
+
 # Build settings
 markdown: kramdown
 theme: minima
