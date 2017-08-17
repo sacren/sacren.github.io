@@ -19,6 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://sacren.github.io
 
 timezone: America/Denver
+encoding: utf-8
 
 # Build settings
 markdown: kramdown
