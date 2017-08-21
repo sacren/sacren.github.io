@@ -3,16 +3,3 @@ layout: page
 title: About
 permalink: /about/
 ---
-<pre>
-“This is my letter to the World”
-
-This is my letter to the World
-That never wrote to Me──
-The simple News that Nature told──
-With tender Majesty
-
-Her Message is committed
-To Hands I cannot see──
-For love of Her──Sweet──countrymen──
-Judge tenderly──of Me
-</pre>
